@@ -12,7 +12,7 @@
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
-- [👥 backend](#backend-link)
+- [💻 backend](#backend-link)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [🙏 Acknowledgements](#acknowledgements)
