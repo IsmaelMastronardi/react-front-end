@@ -19,9 +19,8 @@ export const fetchSalute = createAsyncThunk('cars/index',
     }
   });
 
-
 const initialState = {
-  greeting: "",
+  greeting: '',
   loading: true,
 };
 
